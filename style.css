@@ -1,0 +1,100 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+
+.pacifico-regular {
+    font-family: "Pacifico", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+.submit-button{
+  border-radius: 40px;
+  padding: 12px;
+  font-size: large;
+  margin-left: -75px;
+  background-color: rgb(179, 69, 29);
+  color: rgb(225, 159, 72);
+}
+.search-bar{
+  border-radius: 40px;
+  padding: 10px;
+  font-size: large;
+}
+nav{
+  background-color: black;
+  padding: 10px;
+}
+.title{
+  font-size:40px;
+  text-decoration: none;
+  color:rgb(179, 69, 29);
+}
+.nunito{
+  font-family: "Satisfy", cursive;
+  font-weight: 500;
+  font-style: normal;
+  color:rgb(225, 159, 72);
+  text-decoration: none;
+  font-size: 25px;
+
+}
+.back-section{
+  background-image:url("https://wallpapercave.com/wp/wp4069436.jpg");
+  background-size: cover;
+  background-position: center;
+  height: 95vh;
+  padding: 12vh;
+
+}
+.motto{
+  font-size: 3.5vw;
+  color:rgb(225, 159, 72);
+  margin-top: 28vh;
+}
+.major-mono-display-regular {
+  font-family: "Major Mono Display", monospace;
+  font-weight: 610;
+  font-style: normal;
+}
+.trending-section{
+  padding-top: 9vw;
+  
+}
+img{
+  border-radius: 12px; 
+  transition: transform 0.3s ease-in-out;
+}
+img:hover{
+  transform: scale(1.08);
+  filter: brightness(110%);
+  box-shadow: 0 0 10px rgba(255, 255, 255, 0.5);
+
+}
+#fl{
+  padding-top: 9vw;
+  border-bottom: 2px solid black;
+}
+.form-button{
+  width: 100%;
+}
+.contact-section{
+  background-color: lightgray;
+  width:75vw;
+  margin: 10px auto;;
+}
+#ct{
+  border-radius: 12px;
+  margin-top: 5vw;
+}
+#hs{
+  border-bottom: 2px solid black;
+  padding-bottom: 10vw;
+}
+#ta{
+  border-bottom: 2px solid black;
+  padding-bottom: 10vw;
+}
